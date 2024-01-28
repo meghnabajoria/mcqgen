@@ -1,0 +1,3 @@
+MCQ,Choices,Correct
+Supervised learning algorithms build a mathematical model of a set of data that contains both the inputs and the desired ___,a: features | b: labels | c: predictions | d: outputs,outputs
+"Classification algorithms are used when the outputs are restricted to a limited set of values, and regression algorithms are used when the outputs may have any ___ value within a range.",a: numerical | b: categorical | c: discrete | d: continuous,numerical
